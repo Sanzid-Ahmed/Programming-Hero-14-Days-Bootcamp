@@ -1,0 +1,27 @@
+.story-card{
+    background-color: white;
+    display: flex;
+    padding: 40px;
+    border-radius: 24px;
+    gap: 20px;
+}
+
+.story-content h2, 
+.story-content p,
+.story-content img{
+    margin-bottom: 30px;
+}
+
+#country-card-container{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#country-card-container h2{
+    background-color: white;
+    padding: 40px;
+    border-radius: 30px;
+
+}
